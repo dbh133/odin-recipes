@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(76, 167, 76)
+}
+
+.recipes .link{
+    font-size: 20px;
+    color: black;
+
+    
+}
+
+h1{
+    color: rgb(9, 83, 59);
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif
+}
+
+h3{
+    font-style: italic;    
+}
+
+ul, ol{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
